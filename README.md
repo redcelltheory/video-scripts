@@ -1,6 +1,6 @@
 # 🎥 The Red Cell Theory — Video Scripts Repository
 
-Welcome! This repository contains the public-facing text assets for all videos produced by The Red Cell Theory. By making these resources available, we aim to improve accessibility, enable community translations, and provide a clear reference for the content we create.
+Welcome! This repository contains the public-facing text assets and metadata for all videos produced by The Red Cell Theory. By making these resources available, we aim to improve accessibility, enable community translations, and provide a clear reference for the content we create.
 
 ---
 
